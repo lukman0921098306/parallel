@@ -1,2 +1,2 @@
 # parallel
-Pemrograman Parallel
+Algoritma Pemrograman Parallel
